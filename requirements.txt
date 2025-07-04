@@ -1,1 +1,11 @@
-
+sklearn
+feedparser
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+textblob
+nltk
+scikit-learn
+joblib
